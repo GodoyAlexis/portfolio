@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GodoyAlexis/portfolio/static/css/main.8dba88e6.css",
+    "main.js": "/GodoyAlexis/portfolio/static/js/main.9cc4dd89.js",
+    "static/js/453.ed3810f9.chunk.js": "/GodoyAlexis/portfolio/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/GodoyAlexis/portfolio/index.html",
+    "main.8dba88e6.css.map": "/GodoyAlexis/portfolio/static/css/main.8dba88e6.css.map",
+    "main.9cc4dd89.js.map": "/GodoyAlexis/portfolio/static/js/main.9cc4dd89.js.map",
+    "453.ed3810f9.chunk.js.map": "/GodoyAlexis/portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dba88e6.css",
+    "static/js/main.9cc4dd89.js"
+  ]
+}
